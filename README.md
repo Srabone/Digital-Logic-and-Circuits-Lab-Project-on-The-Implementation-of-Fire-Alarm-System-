@@ -1,0 +1,1 @@
+# Digital-Logic-and-Circuits-Lab-Project-on-The-Implementation-of-Fire-Alarm-System-
